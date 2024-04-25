@@ -1,2 +1,2 @@
 # Nomina_Empleados
-Este repositorio contendrá el proyecto de una nomina de empleados usando como novedad Blazor.
+Este repositorio contendrá el proyecto de una nomina de empleados!!!
